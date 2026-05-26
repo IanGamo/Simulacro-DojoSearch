@@ -9,6 +9,8 @@ session_set_cookie_params([
     'samesite' => 'Lax'
 ]);
 
+// Cambio para first commit
+
 session_start();
 
 require_once '../../controllers/db_connection.php';
